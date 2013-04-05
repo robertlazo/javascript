@@ -1,0 +1,5 @@
+// Purpose:  Calculates the number of calendar days given a particular end date
+// Author:  Bob Lazo
+// Date: 13 February 2013
+// Action Plan
+// 1.  
